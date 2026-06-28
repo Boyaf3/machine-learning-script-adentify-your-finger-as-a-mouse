@@ -129,8 +129,6 @@ pip install opencv-python mediapipe scikit-learn pyautogui numpy
 ## Author
 Boyaf3
 
-## License
-[Add your license information here]
 
 ## References
 - OpenCV Documentation
